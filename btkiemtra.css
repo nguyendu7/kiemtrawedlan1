@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	width: 1400px;
+	height: 41px;
+	background-color:#A59C9C;
+}
+.menu > ul{
+	list-style: none;
+}
+.menu > ul > li{
+	float: left;
+}
+.menu > ul > li > a{
+	text-decoration: none;
+	font-size: 18px;
+	padding: 10px 20px;
+	color: #8D0375;
+	background-color: #A59C9C;
+	display: block;
+}
+.menu > ul > li:hover a{
+	background-color: gray;
+	color: white;
+}
+.khunglon{
+	width: 1242px;
+	height: 610px;
+	margin-top: 30px;
+	border: 1px solid #86AEC7;
+	margin-left: 20px;
+}
+.khungtrailon{
+	width: 703px;
+	height: 565px;
+	float:left;
+}
+.khungmenu{
+	width: 689px;
+	height: 40px;
+	background-color:white;
+	margin-left: 1px;
+}
+.khungmenu > ul{
+	list-style: none;
+}
+.khungmenu > ul > li{
+	float: left;
+}
+.khungmenu > ul > li > a{
+	text-decoration: none;
+	font-size: 13px;
+	padding: 5px 10px;
+	color: #8D0375;
+	background-color: white;
+	display: block;
+}
+.khungmenu > ul > li:hover a{
+	color: blue;
+}
+.khungtrai{
+	width: 364px;
+	height: 510px;
+	margin-left: 5px;
+	float:left;
+}
+.khungtrai > img{
+	width: 364px;
+	height: 224px;
+}
+.khungtrai > img:hover{
+	width: 364px;
+	height: 224px;
+}
+.khungtrai >.a1{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+.khungtrai >.a1:hover{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: red;
+}
+.khungtrai >.a2{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	
+}
+.khungtrai hr{
+	margin-top: 10px;
+	border-top: 2px solid red;
+	margin-bottom: 10px;
+}
+.khunggiua{
+	width: 311px;
+	height: 429px;
+	margin-left: 10px;
+	float:left
+}
+
+.khunggiua >.a1{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+.khunggiua >.a2{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+.khunggiua hr{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.khungphailon{
+	width: 504px;
+	height: 461px;
+	float:left;
+	margin-left: 25px;
+
+}
+.trai{
+	padding:10px;
+	border: 1px solid red;
+	font-size: 30px;
+	color:orange;
+}
+
+.phai{
+	padding:10px;
+	border: 1px solid red;
+	font-size: 30px;
+	color: orange;
+}
+.khungphaitren{
+	width: 504px;
+	height:208px;
+}
+.khungphaitren >a{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: #B1058F;
+	display: block;
+}
+.khungphaiduoi{
+	width: 504px;
+	height:208px;
+}
+.khungphaiduoi > img{
+	width: 163px;
+	height: 110px;
+	margin-top: 35px;
+}
